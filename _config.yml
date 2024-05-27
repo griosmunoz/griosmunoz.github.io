@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : "Gonzalo R. Ríos-Muñoz"
+  avatar           : "profileGRM.png"
+  bio              : "Assistant Professor, Phd, MSc"
+  location         : "Leganés, Madrid, Spain"
+  employer         : "https://www.uc3m.es"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=gonzalo+rios-mu%C3%B1oz"
+  googlescholar    : "https://scholar.google.es/citations?hl=es&user=6Kng42gAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "grios@ing.uc3m.es"
+  researchgate     : "https://www.researchgate.net/profile/Gonzalo-Rios-Munoz"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://es.linkedin.com/in/gonzalorios"
+  orcid            : "https://orcid.org/0000-0003-2446-3045"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Madrid # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
