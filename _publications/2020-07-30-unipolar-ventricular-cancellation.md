@@ -1,6 +1,7 @@
 ---
 title: "Real-Time Ventricular Cancellation in Unipolar Atrial Fibrillation Electrograms"
 collection: publications
+category: "Peer-review Journals"
 permalink: /publication/2020-07-30-unipolar-ventricular-cancellation
 excerpt: ''
 date: 2020-07-30
