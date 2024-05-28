@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : GRiosMunoz
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   avatar           : "profileGRM.png"
   bio              : "Assistant Professor, Phd, MSc"
   location         : "Leganés, Madrid, Spain"
-  employer         : "https://www.uc3m.es"
+  employer         : 
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=gonzalo+rios-mu%C3%B1oz"
   googlescholar    : "https://scholar.google.es/citations?hl=es&user=6Kng42gAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "grios@ing.uc3m.es"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : GRiosMunoz
   vine             :
   weibo            :
   xing             :
