@@ -1,6 +1,7 @@
 ---
 title: "Convolutional Neural Networks for Mechanistic Driver Detection in Atrial Fibrillation"
 collection: publications
+category: "Peer-review Journals"
 permalink: /publication/2022-04-11-cnn-rotor-detection-af
 excerpt: ''
 date: 2022-04-11
