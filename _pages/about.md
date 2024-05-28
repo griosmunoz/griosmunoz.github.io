@@ -23,11 +23,11 @@ I hold a Ph.D. and MSc. in Multimedia and Communications from UC3M, Spain 2018 a
 
 Research
 ======
-Atrial fibrillation
+* Atrial fibrillation
 
-Signal processing
+* Signal processing
 
-Machine learning
+* Machine learning
 
 News
 ======
