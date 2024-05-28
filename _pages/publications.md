@@ -19,7 +19,7 @@ author_profile: true
   {% if publications_in_category.size > 0 %}
 <h2 class="category-toggle">{{ category | capitalize }} <span class="toggle-icon">+</span></h2>
 <div id="publications-{{ category | slugify }}" class="publications-section">
-      {% for post in publications_in_category %}
+      {% for post in publications_in_category reversed%}
         {% include archive-single.html %}
       {% endfor %}
 </div>
