@@ -15,11 +15,19 @@ Leganés, Madrid, Spain
 
 About
 ======
-About me.
+I am an Assistant Professor in the Bioengineering Department at Universidad Carlos III de Madrid (UC3M) at the Biomedical Sciences and Engineering Laboratory (BSEL). 
+
+I was a postdoctoral researcher at the Cardiology Department of the Hospital General Universitario Gregorio Marañón (HGUGM) (2019-2022). 
+
+I hold a Ph.D. and MSc. in Multimedia and Communications from UC3M, Spain 2018 and 2015 respectively, and hold a degree In Telecommunications Engineering from UC3M (2012).
 
 Research
 ======
-Research.
+Atrial fibrillation
+
+Signal processing
+
+Machine learning
 
 News
 ======
