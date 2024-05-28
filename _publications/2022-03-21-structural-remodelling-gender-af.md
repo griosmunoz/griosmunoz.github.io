@@ -1,6 +1,7 @@
 ---
 title: "Structural Remodeling and Rotational Activity in Persistent/Long-Lasting Atrial Fibrillation: Gender-Effect Differences and Impact on Post-ablation Outcome"
 collection: publications
+category: "Peer-review Journals"
 permalink: /publication/2022-03-21-structural-remodelling-gender-af
 excerpt: ''
 date: 2022-03-21
