@@ -1,6 +1,7 @@
 ---
 title: "Hierarchical Algorithms for Causality Retrieval in Atrial Fibrillation Intracavitary Electrograms"
 collection: publications
+category: "Peer-review Journals"
 permalink: /publication/2019-01-01-ieee-causality
 excerpt: ''
 date: 2019-01-01
