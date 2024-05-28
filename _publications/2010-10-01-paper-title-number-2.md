@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "On the performance of parallelisation schemes for particle filtering"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2018-03-13-parallel-particle-filters
+excerpt: ''
+date: 2018-05-25
+venue: 'EURASIP Journal on Advances in Signal Processing'
+paperurl: 'https://doi.org/10.1186/s13634-018-0552-x'
+citation: '&quot;<i>Crisan, D., Míguez, J. & Ríos-Muñoz, G. On the performance of parallelisation schemes for particle filtering. EURASIP J. Adv. Signal Process. 2018, 31 (2018). https://doi.org/10.1186/s13634-018-0552-x</i>.&quot;.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+* [Download paper here](https://doi.org/10.1186/s13634-018-0552-x)
+* [URI](https://hdl.handle.net/10016/38841)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: <i>Crisan, D., Míguez, J. & Ríos-Muñoz, G. On the performance of parallelisation schemes for particle filtering. EURASIP J. Adv. Signal Process. 2018, 31 (2018). https://doi.org/10.1186/s13634-018-0552-x</i>.
