@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Telecommunications, UC3M, 2012
+* M.S. in Multimedia and Communications, UC3M, 2015
+* Ph.D in Multimedia and Communications, UC3M, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2013-2015: Research Assistant
+  * UC3M
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
