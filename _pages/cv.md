@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Multimedia and Communications, [UC3M](https://www.uc3m.es/ss/Satellite/Doctorado/en/Detalle/Estudio_C/1371323806437/1371210298470/Signal_Processing_and_Communications_Engineering), 2018
 * M.S. in Multimedia and Communications, [UC3M](https://www.uc3m.es/master/machine-learning-health#home), 2015
-* * B.S. in Telecommunications (5-year diploma), UC3M, 2012
+* B.S. in Telecommunications (5-year diploma), UC3M, 2012
 
 Work experience
 ======
