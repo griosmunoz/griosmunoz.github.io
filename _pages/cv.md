@@ -35,7 +35,8 @@ Work experience
 
  * 2023, 2024: Visiting Researcher
    * Queen Mary University of London (QMUL), UK
-   * PI: Dr. Caroline Roney
+   * [Personalised Cardiac Modelling Lab](https://pcmlab.co.uk/), [DERI](https://www.qmul.ac.uk/deri/), London
+   * PI: [Dr. Caroline Roney](https://scholar.google.co.uk/citations?user=xfRxPlUAAAAJ&hl=en)
    * Topics: Computational Modelling, Digital Twins, Cardiology
 
 Publications
