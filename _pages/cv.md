@@ -33,10 +33,10 @@ Work experience
   * Universidad Carlos III de Madrid
   * Topics: Teaching in Biomedical Engieering BSc and MSc programs
 
- * 2023, 2024: Visiting Researcher, 
-  * Queen Mary University of London (QMUL), UK
-  * PI: Dr. Caroline Roney
-  * Topics: Computational Modelling, Digital Twins, Cardiology
+ * 2023, 2024: Visiting Researcher
+   * Queen Mary University of London (QMUL), UK
+   * PI: Dr. Caroline Roney
+   * Topics: Computational Modelling, Digital Twins, Cardiology
 
 Publications
 ======
