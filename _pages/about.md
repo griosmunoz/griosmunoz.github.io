@@ -31,4 +31,4 @@ Research
 
 News
 ======
-For recent news check [@GRiosMunoz](https://x.com/griosmunoz) and [LinkedIn](https:/es.linkedin.com/in/gonzalorios/) posts.
+For recent news check [@GRiosMunoz](https://x.com/griosmunoz) and [LinkedIn](https://www.linkedin.com/in/gonzalorios/) posts.
