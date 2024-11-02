@@ -39,24 +39,27 @@ Work experience
    * PI: [Dr. Caroline Roney](https://scholar.google.co.uk/citations?user=xfRxPlUAAAAJ&hl=en)
    * Topics: Computational Modelling, Digital Twins, Cardiology
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<>Publications
+<>======
+<>  <ul>{% for post in site.publications %}
+<>    {% include archive-single-cv.html %}
+<>  {% endfor %}</ul>
+<>  
+<>Talks
+<>======
+<>  <ul>{% for post in site.talks %}
+<>    {% include archive-single-talk-cv.html %}
+<>  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<>Teaching
+<>======
+<>  <ul>{% for post in site.teaching %}
+<>    {% include archive-single-cv.html %}
+<>  {% endfor %}</ul>
   
-Teaching
+Supervision of Postdoctoral, PhD students, and Researchers
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2024 - present Supervision. María Martínez, Postdoctoral researcher in 3D atrial AI models
+* 2023 - present Supervision. Juan López-Dóriga, Research Assistant in cardiac clinical studies
+* 2022 - present Co-Supervision. 3 PhD students (on going).
+* 2020 - present Supervision. 7 Master students (5 completed), 21 Bachelor students (18 completed)
